@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
+=======
+*.log
+>>>>>>> origin/main
 
 # testing
 /coverage
@@ -12,6 +16,10 @@
 /build
 
 # misc
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> origin/main
 .DS_Store
 .env.local
 .env.development.local
